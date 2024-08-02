@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>relolut_prep</artifactId>
+    <artifactId>url-shortener</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
 
@@ -13,6 +13,12 @@
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>
             <version>5.9.1</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-core</artifactId>
+            <version>3.9.0</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
