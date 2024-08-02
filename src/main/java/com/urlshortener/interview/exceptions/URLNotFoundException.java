@@ -1,4 +1,4 @@
-package com.revolut.interview.exceptions;
+package com.urlshortener.interview.exceptions;
 
 /**
  * Exception thrown when a short URL does not have a corresponding original URL.

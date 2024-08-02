@@ -1,4 +1,4 @@
-package com.revolut.interview.exceptions;
+package com.urlshortener.interview.exceptions;
 
 /**
  * Exception thrown when an invalid URL is provided.

@@ -1,4 +1,4 @@
-package com.revolut.interview.utils;
+package com.urlshortener.interview.utils;
 
 /**
  * Utility methods for URL Shortener.
